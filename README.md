@@ -1,1 +1,1 @@
-# js_project___background_image_scroll_effect
+# Background-Image-Scroll-Effect
